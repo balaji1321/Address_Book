@@ -1,0 +1,135 @@
+Name : B Balaji
+Date : 20-09-2024
+Description : Project on storing details of a multiple persons like....
+              -Name , mobile, email 
+              -To perform create,delete,update,search,list operations
+
+sample input:
+ 
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 
+
+sample ouput:
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+Enter Name: Balaji
+Enter mobile: 4567887654
+Enter Email : vanabahn@gan.com
+Do you want to save? y/n
+y
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 2
+Select Menu : 
+1.By Name
+2.By mobile
+3.By Mail
+4.Exit
+Enter Your Choice : 1
+Enter Name : Balaji
+Multiple names are Present! Try with Mobile number
+Enter Mobile number : 4567887654
+_____________________________________________________________
+| Name           |   Mobile       |         Email           |
+|----------------|----------------|-------------------------|
+|Balaji          |     4567887654 |         vanabahn@gan.com|
+-------------------------------------------------------------
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 3
+Edit Contact Menu :
+1.Edit Name
+2.Edit Mobile
+3.Edit Email
+Enter the Option : 1
+Enter Name : Balaji
+Multiple Names are Exist! Try with Mobile Numner
+Enter Mobile Number: 4567887654
+Enter New Name : Rahul
+Do you want to save? y/n
+y
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 5
+_____________________________________________________________
+| Name           |     Mobile     |         Email           |
+|----------------|----------------|-------------------------|
+|Balaji          |     5678876548 |cvbskjc@gm.com           |
+|hemanth         |     4567865456 |vbnm@gh.com              |
+|raju            |     4567876543 |sdfgh@cnmm.com           |
+|rajesh          |     1234567809 |sdfghjkl@dfg.com         |
+|Rahul           |     4567887654 |vanabahn@gan.com         |
+|-----------------------------------------------------------|
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 4
+Enter Name : hemanth
+Do you want to Delete? y/n
+y
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 6
+Saving and Exiting...
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 7
+Do you want to save? y/n
+y
+Saving and Exit..
